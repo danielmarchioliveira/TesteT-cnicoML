@@ -1,4 +1,4 @@
-package com.br.mltechtest.ui.theme
+package com.br.mltechtest.core.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 
